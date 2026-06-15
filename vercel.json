@@ -1,5 +1,5 @@
 {
-  "buildCommand": "hugo --minify",
+  "buildCommand": "PATH=$PATH:/usr/local/go/bin hugo --minify",
   "outputDirectory": "public",
-  "installCommand": "curl -L https://go.dev/dl/go1.22.0.linux-amd64.tar.gz | tar -C /usr/local -xz && export PATH=$PATH:/usr/local/go/bin && hugo mod download"
+  "installCommand": "curl -L https://go.dev/dl/go1.22.0.linux-amd64.tar.gz | tar -C /usr/local -xz && /usr/local/go/bin/go env && /usr/local/go/bin/go install && hugo mod download -v"
 }
