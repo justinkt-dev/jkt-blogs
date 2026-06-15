@@ -41,7 +41,7 @@ I'm **Justin (aka JKT)**, a driven technology professional with hands‑on exper
 - CRTSv2 - Certified Red Teamn Specialist *(06/2026)*
 - CRTO - Certified Red Team Operator *(05/2026)*
 - CPTS - Certified Penetration Testing Specialist *(04/2026)*
-- 5x HTB Pro Labs - POO, Dante, Zephyr, Offshore, Cybernetics *(09/2025)*
+- 5x HTB Pro Labs - POO, Dante, Zephyr, Offshore *(09/2025)*
 
 ## 🔥 Areas of Expertise
 ---
