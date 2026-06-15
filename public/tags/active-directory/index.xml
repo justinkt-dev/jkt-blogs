@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Active-Directory on jkt&#39;s blogs</title>
+    <link>http://localhost:1313/tags/active-directory/</link>
+    <description>Recent content in Active-Directory on jkt&#39;s blogs</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>Justin Kombe Tonguino</managingEditor>
+    <webMaster>Justin Kombe Tonguino</webMaster>
+    
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissecting HackTheBox Pro Labs: The Art of Attacking Enterprise Networks</title>
+      <link>http://localhost:1313/posts/prolabs-review/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/prolabs-review/</guid>
+      <description>A comprehensive review of HTB Pro Labs — POO, Dante, Zephyr, and Offshore — with key takeaways, practical tips, and honest insights.</description>
+    </item>
+    
+  </channel>
+</rss>

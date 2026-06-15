@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on jkt&#39;s blogs</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on jkt&#39;s blogs</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>Justin Kombe Tonguino</managingEditor>
+    <webMaster>Justin Kombe Tonguino</webMaster>
+    
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dissecting HackTheBox Pro Labs: The Art of Attacking Enterprise Networks</title>
+      <link>http://localhost:1313/posts/prolabs-review/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/prolabs-review/</guid>
+      <description>A comprehensive review of HTB Pro Labs — POO, Dante, Zephyr, and Offshore — with key takeaways, practical tips, and honest insights.</description>
+    </item>
+    
+    <item>
+      <title>ArcGIS Web App: Overview, Common Issues, Solutions &amp; Best Practices</title>
+      <link>http://localhost:1313/posts/arcgis-webapps/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/arcgis-webapps/</guid>
+      <description>Overview, common issues, solutions and best practices for ArcGIS Web Applications — Experience Builder and Web AppBuilder.</description>
+    </item>
+    
+    <item>
+      <title>ArcGIS Printing Services Made Simple: Frequent Issues, Fixes, and Proven Tips</title>
+      <link>http://localhost:1313/posts/arcgis-printing/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/arcgis-printing/</guid>
+      <description>Overview, common issues, solutions and best practices for ArcGIS Printing Services in Enterprise environments.</description>
+    </item>
+    
+    <item>
+      <title>ArcGIS Feature Services: Common Issues, Tips and Effective Solutions</title>
+      <link>http://localhost:1313/posts/arcgis-featureservices/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/arcgis-featureservices/</guid>
+      <description>Overview, common issues, solutions and best practices for ArcGIS Feature Services in Enterprise and Online environments.</description>
+    </item>
+    
+    <item>
+      <title>My Journey Through Cybersecurity: Degree, Certifications, and Hands-on Labs</title>
+      <link>http://localhost:1313/posts/cyber-journey/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/cyber-journey/</guid>
+      <description>Should you pursue a degree, stack certifications, or dive straight into practical experience? An honest breakdown from an aspiring offensive security professional.</description>
+    </item>
+    
+    <item>
+      <title>RH124, RH134 &amp; DO457 - Key Concepts, Learning Resources and Insights</title>
+      <link>http://localhost:1313/posts/linux-resources/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/linux-resources/</guid>
+      <description>Must-know resources and materials to get you started with Linux, System Administration, and security analysis.</description>
+    </item>
+    
+    <item>
+      <title>Arch Linux Vs Pop!_OS: The Ultimate Guide for Developers and Security Experts</title>
+      <link>http://localhost:1313/posts/arch-vs-pop/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/arch-vs-pop/</guid>
+      <description>A comprehensive guide to choosing the right Linux distribution for your needs — my personal experience with Arch Linux and Pop!_OS.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Offensive PenTesting Pathway — Full Review</title>
+      <link>http://localhost:1313/posts/thm-offpentest/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/thm-offpentest/</guid>
+      <description>A full breakdown of the TryHackMe Offensive PenTesting path — sections, deliverables, and practical tips.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Red Teaming Pathway — Full Review</title>
+      <link>http://localhost:1313/posts/thm-redteaming/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/thm-redteaming/</guid>
+      <description>A full breakdown of the TryHackMe Red Teaming path — adversary simulation, evasion, Active Directory, and key takeaways.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe CompTIA PenTest&#43; Pathway — Full Review</title>
+      <link>http://localhost:1313/posts/thm-pentest/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/thm-pentest/</guid>
+      <description>A full breakdown of the TryHackMe CompTIA PenTest+ path — planning, tools, recon, and exploitation.</description>
+    </item>
+    
+    <item>
+      <title>Data Recovery on Linux Using ldmtool</title>
+      <link>http://localhost:1313/posts/ldmtool/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/ldmtool/</guid>
+      <description>Recover your data safely from Windows LDM volumes on Linux using ldmtool and GParted.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;-who-am-i&#34;&gt;👋 Who Am I?&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;Justin (aka JKT)&lt;/strong&gt;, a driven technology professional with hands‑on expertise in ArcGIS Enterprise, offensive security, and automation scripting. I diagnose complex geospatial problems and deliver reliable, high‑quality solutions for end users. I author knowledge articles, support enterprise usage, mentor team members and resolve complex global escalations. Disciplined and curious, I continuously advance my skills through hands‑on labs and industry certifications.&lt;/p&gt;
+&lt;h2 id=&#34;-work-experience&#34;&gt;💼 Work Experience&lt;/h2&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;GIS Enterprise Support Analyst - Esri Malaysia&lt;/strong&gt; &lt;em&gt;(Mar 2025 – Present)&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pop-Os on jkt&#39;s blogs</title>
+    <link>http://localhost:1313/tags/pop-os/</link>
+    <description>Recent content in Pop-Os on jkt&#39;s blogs</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <managingEditor>Justin Kombe Tonguino</managingEditor>
+    <webMaster>Justin Kombe Tonguino</webMaster>
+    
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pop-os/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arch Linux Vs Pop!_OS: The Ultimate Guide for Developers and Security Experts</title>
+      <link>http://localhost:1313/posts/arch-vs-pop/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <author>Justin Kombe Tonguino</author>
+      <guid>http://localhost:1313/posts/arch-vs-pop/</guid>
+      <description>A comprehensive guide to choosing the right Linux distribution for your needs — my personal experience with Arch Linux and Pop!_OS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+{
+  "buildCommand": "hugo --minify --baseURL https://justinkombe.xyz/",
+  "outputDirectory": "public",
+  "installCommand": "curl -L -o hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v0.161.1/hugo_extended_0.161.1_linux-amd64.tar.gz && tar -xzf hugo.tar.gz && mv hugo /usr/local/bin/ && hugo mod download"
+}
