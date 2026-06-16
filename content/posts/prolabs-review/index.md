@@ -13,7 +13,7 @@ draft: false
 
 HackTheBox Pro Labs have become a defining benchmark in cybersecurity training, offering immersive, real-world simulation environments designed to push the boundaries of ethical hacking skills. These labs are highly valued by cybersecurity professionals for their realism, complexity, and advanced setup with the latest TTPs.
 
-In this blog post, we will dive into the meat and potatoes of 3 major Pro Labs (Dante, Zephyr, Offshore) and POO mini Pro Labs — highlighting their core challenges, learning outcomes, and what makes each lab a unique training ground. Whether you're a seasoned professional or a novice seeking a challenge, I hope this guide brings some clarity and helps you decide which Pro Labs to tackle next.
+In this blog post, we will dive into the meat and potatoes of 3 major Pro Labs (Dante, Zephyr, Offshore) and POO mini Pro Labs. We will focus on highlighting their core challenges, learning outcomes, and what makes each lab a unique training ground. Whether you're a seasoned professional or a novice seeking a challenge, I hope this guide brings some clarity and helps you decide which Pro Labs to tackle next.
 
 ## Quick Overview of Pro Labs Categories
 
@@ -37,6 +37,7 @@ Despite the name, penetration testers can tackle these labs and practice, if not
 ## P.O.O Mini Pro Labs
 
 ![P.O.O Mini Pro Labs](POO.webp)
+<img src="ProLabs.webp" alt="HTB Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
 
 ### Overview
 
