@@ -1,0 +1,17 @@
+<script>
+  (function () {
+    var btn = document.querySelector('a[href="#"][title="Go to top"]');
+    if (!btn) return;
+    window.addEventListener('scroll', function () {
+      if (window.scrollY > 300) {
+        btn.classList.add('btt-visible');
+      } else {
+        btn.classList.remove('btt-visible');
+      }
+    });
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  })();
+</script>
