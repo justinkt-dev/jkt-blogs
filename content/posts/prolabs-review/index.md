@@ -36,7 +36,6 @@ Despite the name, penetration testers can tackle these labs and practice, if not
 
 ## P.O.O Mini Pro Labs
 
-![P.O.O Mini Pro Labs](POO.webp)
 <figure>
   <img src="POO.webp" alt="P.O.O Mini Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
   <figcaption>P.O.O Mini Pro Labs</figcaption>
@@ -62,7 +61,10 @@ P.O.O focuses on enumeration, lateral movement, and privilege escalation within 
 
 ## Dante Pro Labs (AKA The Pivot Playground)
 
-![Dante Pro Labs](Dante.webp)
+<figure>
+  <img src="Dante.webp" alt="Dante Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption>Dante Pro Labs</figcaption>
+</figure>
 
 ### Overview
 
