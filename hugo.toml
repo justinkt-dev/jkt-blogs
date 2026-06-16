@@ -8,6 +8,18 @@ ignoreErrors = ["additional-script-loading-error"]
 [params]
 goToTop = true
 
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/justinkt-dev"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/jkt112"
+
+[[params.socialIcons]]
+name = "medium"
+url = "https://justinkt.medium.com"
+
 [module]
 [[module.imports]]
 path = "github.com/hugo-sid/hugo-blog-awesome"
@@ -34,11 +46,13 @@ pageRef = "/"
 name = 'Home'
 url = '/'
 weight = 10
+
 [[Languages.en-gb.menu.main]]
 pageRef = "posts"
 name = 'Posts'
 url = '/posts/'
 weight = 20
+
 [[Languages.en-gb.menu.main]]
 pageRef = "about"
 name = 'About'
@@ -50,7 +64,6 @@ sitename = ""
 defaultColor = "dark"
 description = "Offensive Security & ArcGIS Research"
 mainSections = ['posts']
-goToTop = true
 dateFormat = "2 Jan 2006"
 rssFeedDescription = "summary"
 
@@ -59,17 +72,5 @@ avatar = "avatar.webp"
 intro = "Justin Kombe Tonguino"
 name = "Justin Kombe Tonguino"
 description = "Offensive Security & ArcGIS Research"
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/justinkt-dev"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://linkedin.com/in/jkt112"
-
-[[params.socialIcons]]
-name = "medium"
-url = "https://justinkt.medium.com"
 
 copyright = "2026"
