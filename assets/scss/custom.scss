@@ -22,3 +22,25 @@ h1, h2, h3, h4, h5, h6 {
 .wrapper {
   max-width: 960px;
 }
+
+/* ── Link hover effects ─────────────────────────────────────────── */
+.toc a {
+  text-decoration: none;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.toc a:hover {
+  color: #2E86FF;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ── Post list hover effects ────────────────────────────────────── */
+.post-item-title a {
+  transition: color 0.2s ease;
+}
+
+.post-item-title a:hover {
+  color: #2E86FF;
+  text-decoration: underline;
+}
