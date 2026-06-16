@@ -22,19 +22,3 @@ h1, h2, h3, h4, h5, h6 {
 .wrapper {
   max-width: 960px;
 }
-
-/* ── Table of Contents colors ───────────────────────────────────── */
-.toc a {
-  color: #E2E8F0;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-.toc a:hover {
-  color: #2E86FF;
-  text-decoration: none;
-}
-
-.toc summary {
-  color: #E2E8F0;
-}
