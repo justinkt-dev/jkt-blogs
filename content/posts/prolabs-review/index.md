@@ -37,7 +37,10 @@ Despite the name, penetration testers can tackle these labs and practice, if not
 ## P.O.O Mini Pro Labs
 
 ![P.O.O Mini Pro Labs](POO.webp)
-<img src="ProLabs.webp" alt="HTB Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
+<figure>
+  <img src="POO.webp" alt="P.O.O Mini Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption style="text-align:center; font-size:0.85rem; opacity:0.6; margin-top:0.5rem;">P.O.O Mini Pro Labs — HTB Enterprise Network</figcaption>
+</figure>
 
 ### Overview
 
