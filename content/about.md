@@ -18,6 +18,7 @@ I'm **Justin (aka JKT)**, a driven technology professional with hands‑on exper
 - Actively author internal Knowledge Articles and technical documentation, ensuring solutions are accurate, accessible, and aligned with team standards. 
 - Regularly collaborate with cross-functional teams to brainstorm and troubleshoot complex GIS issues. 
 - Mentor and support new team members through knowledge transfer initiatives, best practices and technical guidance to accelerate onboarding. 
+- Manage in-house, on-premise Linux ArcGIS Enterprise deployments and databases, including SSL Certificates management for Tomcat and IIS-hosted HTTPS environments used by internal APAC Support Analysts. 
 
 **SOC Analyst - APU SOC Center** *(Dec 2023 – Mar 2024)*
 - Monitoring of event logs on networks, systems, devices, and infrastructure for unusual or suspicious activity.
