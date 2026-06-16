@@ -33,7 +33,10 @@ At first, I thought HackTheBox Pro Labs were only for Red Team operators — tur
 
 Despite the name, penetration testers can tackle these labs and practice, if not learn new skills or techniques. Bear in mind that they are time-consuming, even for seasoned professionals. This could be due to factors like tools malfunctioning, VPN issues, broken machines, or overlapping attacks. Frustrating moments such as **"Why won't this payload work?"** are unavoidable.
 
-![Red Teaming vs PenTesting](Pentest-Redteamin.webp)
+<figure>
+  <img src="Pentest-Redteamin.webp" alt="Red Teaming Vs PenTesting" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption>Red Teaming Vs PenTesting</figcaption>
+</figure>
 
 > **Note:** The overviews and learning outcomes below are exactly as described on the [HTB Pro Labs page](https://www.hackthebox.com/hacker/pro-labs). Everything else is my personal opinion and experience. I will try my very best not to throw spoilers.
 
