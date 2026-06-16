@@ -38,3 +38,11 @@ h1, h2, h3, h4, h5, h6 {
 .toc summary {
   color: #E2E8F0;
 }
+
+figcaption {
+  text-align: center;
+  font-size: 0.85rem;
+  opacity: 0.6;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
