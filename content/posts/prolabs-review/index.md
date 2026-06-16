@@ -148,7 +148,10 @@ powershell.exe -c "Get-ChildItem -Path C:\ -Recurse -Filter *flag*.txt -ErrorAct
 
 ## Final Thoughts, Tips and Recommendations
 
-![Rock Lee](rocklee.webp)
+<figure>
+  <img src="rocklee.webp" alt="Rock Lee" style="width:100%; max-width:800px; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption>Rock Lee</figcaption>
+</figure>
 
 - The labs often have many active users, so expect overlapping techniques. ForceChangePassword is frequently used (thanks to BloodHound) and often by novices, while experienced players take other routes. Artifacts, hashes, or deleted files may also result from others' actions.
 - Establish a solid methodology before starting, or refine one as you progress. CPTS gave me the fundamentals, but success with HTB Labs demands research and resourcefulness. Use Google, the HTB Community, Forum, and Discord.
