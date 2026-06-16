@@ -23,24 +23,18 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 960px;
 }
 
-/* ── Link hover effects ─────────────────────────────────────────── */
+/* ── Table of Contents colors ───────────────────────────────────── */
 .toc a {
+  color: #E2E8F0;
   text-decoration: none;
-  transition: color 0.2s ease, text-decoration 0.2s ease;
+  transition: color 0.2s ease;
 }
 
 .toc a:hover {
   color: #2E86FF;
-  text-decoration: underline;
-  cursor: pointer;
+  text-decoration: none;
 }
 
-/* ── Post list hover effects ────────────────────────────────────── */
-.post-item-title a {
-  transition: color 0.2s ease;
-}
-
-.post-item-title a:hover {
-  color: #2E86FF;
-  text-decoration: underline;
+.toc summary {
+  color: #E2E8F0;
 }
