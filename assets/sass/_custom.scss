@@ -1,6 +1,6 @@
 /* Wider body width on post pages */
 .wrapper.post {
-    max-width: 880px;
+    max-width: 840px;
 
     @include media-query($on-mobile) {
         max-width: calc(#{$narrow-size} - #{$spacing-full});
@@ -9,7 +9,7 @@
 
 /* Home page */
 .wrapper.home {
-    max-width: 880px;
+    max-width: 840px;
 
     @include media-query($on-mobile) {
         max-width: calc(#{$narrow-size} - #{$spacing-full});
@@ -220,15 +220,11 @@ html.dark {
     @include home-dark-mode;
 }
 
-/* ── JetBrains Mono font ────────────────────────────────────────── */
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap');
 
 body, p, li, td, th, blockquote, a, span, div {
-  font-family: 'JetBrains Mono', monospace;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'JetBrains Mono', monospace;
   font-weight: 700;
 }
 
@@ -239,3 +235,9 @@ figcaption {
   margin-top: 0.5rem;
   font-style: italic;
 }
+
+.wrapper {
+    max-width: 840px;
+}
+
+
