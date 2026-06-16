@@ -60,6 +60,7 @@ url = '/about/'
 weight = 30
 
 [Languages.en-gb.params]
+goToTop = true
 sitename = ""
 defaultColor = "dark"
 description = "Offensive Security & ArcGIS Research"
