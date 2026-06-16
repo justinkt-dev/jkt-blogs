@@ -1,6 +1,6 @@
 /* Wider body width on post pages */
 .wrapper.post {
-    max-width: 840px;
+    max-width: 820px;
 
     @include media-query($on-mobile) {
         max-width: calc(#{$narrow-size} - #{$spacing-full});
@@ -9,7 +9,7 @@
 
 /* Home page */
 .wrapper.home {
-    max-width: 840px;
+    max-width: 820px;
 
     @include media-query($on-mobile) {
         max-width: calc(#{$narrow-size} - #{$spacing-full});
@@ -237,7 +237,7 @@ figcaption {
 }
 
 .wrapper {
-    max-width: 840px;
+    max-width: 820px;
 }
 
 
