@@ -22,7 +22,10 @@ Before dissecting the mentioned Pro Labs individually, it's essential to have a 
 - **The Primary Bundle:** grants access to all Pro Labs shown on the cover image of this post. More details on pricing can be found [HERE](https://www.hackthebox.com/blog/pro-labs-update).
 - **Enterprise Exclusive:** comes under a different subscription. Feel free to explore for more details.
 
-![HTB Red Team Training Labs](HTBProLabs.webp)
+<figure>
+  <img src="HTBProLabs.webp" alt="HTB Pro Labs" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption>HackTheBox Pro Labs</figcaption>
+</figure>
 
 ## Are Pro Labs Designed for Red Team Operators or Penetration Testers?
 
