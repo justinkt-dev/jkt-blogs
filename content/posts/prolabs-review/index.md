@@ -88,7 +88,10 @@ Dante is a modern, beginner-friendly Pro Lab that provides the opportunity to le
 
 ## Zephyr Pro Labs (AKA The Calm Before the Storm)
 
-![Zephyr Pro Labs](Zephyr.webp)
+<figure>
+  <img src="Zephyr.webp" alt="Zephyr Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption>Zephyr Pro Labs</figcaption>
+</figure>
 
 ### Overview
 
@@ -112,7 +115,10 @@ Zephyr is an intermediate-level red team simulation environment, designed to be 
 
 ## Offshore Pro Labs (AKA Trust Terror)
 
-![Offshore Pro Labs](Offshore.webp)
+<figure>
+  <img src="Offshore.webp" alt="Offshore Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption>Offshore Pro Labs</figcaption>
+</figure>
 
 ### Overview
 
