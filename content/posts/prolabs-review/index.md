@@ -29,9 +29,9 @@ Before dissecting the mentioned Pro Labs individually, it's essential to have a 
 
 ## Are Pro Labs Designed for Red Team Operators or Penetration Testers?
 
-At first, I thought HackTheBox Pro Labs were only for Red Team operators, turns out I was wrong. Most labs are Red Team–level, however PenTesters can do them. While shortcuts can work, it's best to follow the intended approach. Relying on shortcuts or luck might work at times but would never fly in real engagements. Everything in the lab exists for a reason, so stay observant and take detailed notes.
+At first, I thought HackTheBox Pro Labs were only for Red Team operators, turns out I was wrong. Most labs are Red Team–level, and while shortcuts can work, it's best to follow the intended approach. Relying on shortcuts or luck might work at times but would never fly in real engagements. Everything in the lab exists for a reason, so stay observant and take detailed notes.
 
-Despite the name, penetration testers can tackle these labs and practice, if not learn new skills or techniques. Bear in mind that they are time-consuming, even for seasoned professionals. This could be due to factors like tools malfunctioning, VPN issues, broken machines, or overlapping attacks. Frustrating moments such as **"Why won't this payload work?"** are unavoidable.
+Despite the name, penetration testers can tackle these labs and practice, if not learn new skills or techniques. Bear in mind that they are time-consuming, even for seasoned professionals. This could be due to factors like tools malfunctioning, VPN issues, broken machines, or overlapping attacks. Frustrating moments such as **"Why won't this payload work?"** are part of the process.
 
 <figure>
   <img src="Pentest-Redteamin.webp" alt="Red Teaming Vs PenTesting" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius:8px;">
@@ -62,7 +62,7 @@ P.O.O focuses on enumeration, lateral movement, and privilege escalation within 
 
 ### Key Takeaways & Insights
 
-- Difficult to elaborate without spoiling, but if you want to get familiar with HTB Enterprise Networks at the smaller scale, this is a great warm-up. Starting with this was instrumental for me — the difficulty keeps escalating as you move forward.
+- Difficult to elaborate without spoiling, but if you want to get familiar with HTB Enterprise Networks at the smaller scale, this is a great warm-up. Starting with this was instrumental for me but bear in mind that the difficulty keeps escalating as you move forward.
 - I found the attack paths very interesting and enumerated these machines in ways I never thought I could. Long story short, it won't be a waste of time even though you only get 5 flags to capture. P.O.O is a Pro Lab for a reason, hence I will let you discover it.
 
 ## Dante Pro Labs (AKA The Pivot Playground)
@@ -117,7 +117,7 @@ Zephyr is an intermediate-level red team simulation environment, designed to be 
 
 - Several reviews suggest Zephyr is excellent for CRTP holders and exam prep. The latest syllabus includes using Sliver C2 on Windows Server 2022, which is invaluable. Leveraging a C2 could make handling AV/EDR much easier.
 - Many CPTS veterans note that Zephyr aligns well with the HTB CPTS exam. Dante and Zephyr are often the top two Pro Labs recommended before attempting CPTS. While Offshore is considered overkill, doing it wouldn't hurt.
-- While the **CPTS learning path** felt sufficient, I found the overall experience incredibly rewarding — learning new tricks and TTPs along the way.
+- While the **CPTS learning path** felt sufficient, I found the overall experience incredibly rewarding. I also learned new tricks and TTPs along the way.
 
 ## Offshore Pro Labs (AKA Trust Terror)
 
@@ -142,7 +142,7 @@ Offshore is a real-world enterprise environment featuring a wide range of modern
 
 ### Lessons Shaping the Path Forward
 
-- Offshore is time-consuming, especially without CRTE, CRTM, CRTO, CRTL, or HTB CAPE. You can certainly do it without those certs — but be ready to be humbled several times, to embrace extreme resilience and composure, and to do extensive research. If you've been through HTB Pro Labs before, you know the drill.
+- Offshore is time-consuming, especially without **CRTE, CRTM, CRTO, CRTL, or HTB CAPE**. You can certainly do it without those certs — but be ready to be humbled several times, to embrace extreme resilience and composure, and to do extensive research. If you've been through HTB Pro Labs before, you know the drill.
 - **BloodHound** is essential for mapping the landscape, especially with four forests. Map each domain and forest thoroughly to understand trust relationships and uncover valuable insights.
 - A key tip: switching VPN instances can make unreachable hosts accessible. Many users suggest US over EU instances, partly because some stay broken for days.
 - Offshore is vast, chaotic, and demanding, but truly rewarding. Cybernetics and RastaLabs (AKA Evasion Madness) are tougher — their strict evasion requirements mean msfvenom alone won't save you without proper obfuscation techniques.
