@@ -63,7 +63,7 @@ Remember that permissions, sharing settings, user types, and roles apply across 
 - Replace the Web Map in Experience Builder: Open App → Map widget → Content → Replace Web Map → Save → Publish
 - Ensure all data sources are properly bound and loaded
 
-[Knowledge Article: Creating Map Failed](https://support.esri.com/en-us/knowledge-base/problem-the-web-map-is-not-available-in-the-map-widget--000031842)
+More details: [Knowledge Article: Creating Map Failed](https://support.esri.com/en-us/knowledge-base/problem-the-web-map-is-not-available-in-the-map-widget--000031842)
 
 ### Error 2: Unable to Toggle Layer Visibility in Map Layers Widget
 
