@@ -75,7 +75,7 @@ More details: [Knowledge Article: Creating Map Failed](https://support.esri.com/
 - Enable the necessary options in the Map Layers widget: Insert widget → Map Layers → Content → Select "Interact with a Map widget" → Enable "Toggle layer visibility" → Save/Publish
 - Use the Map Widget as the source of the Map Layers widget
 
-[Knowledge Article: Toggle Layer Visibility](https://support.esri.com/en-us/knowledge-base/problem-unable-to-toggle-the-visibility-of-the-map-laye-000028614)
+More details: [Knowledge Article: Toggle Layer Visibility](https://support.esri.com/en-us/knowledge-base/problem-unable-to-toggle-the-visibility-of-the-map-laye-000028614)
 
 ### Error 3: No Editable Layers Found
 
@@ -87,7 +87,7 @@ More details: [Knowledge Article: Creating Map Failed](https://support.esri.com/
 - Allow edits on all feature layers: Portal → Content → Item details → Settings → Enable editing
 - Change the user's role to one with editing privileges: Portal → Organization → Members tab → Change Role
 
-[Knowledge Article: No Editable Layers Found](https://support.esri.com/en-us/knowledge-base/problem-the-editor-widget-is-empty-in-arcgis-experience-000031809)
+More details: [Knowledge Article: No Editable Layers Found](https://support.esri.com/en-us/knowledge-base/problem-the-editor-widget-is-empty-in-arcgis-experience-000031809)
 
 ### Other Tips
 
