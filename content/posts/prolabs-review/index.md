@@ -142,11 +142,11 @@ Offshore is a real-world enterprise environment featuring a wide range of modern
 
 ### Lessons Shaping the Path Forward
 
-- Offshore is time-consuming, especially without **CRTE, CRTM, CRTO, CRTL, or HTB CAPE**. You can certainly do it without those certs — but be ready to be humbled several times, to embrace extreme resilience and composure, and to do extensive research. If you've been through HTB Pro Labs before, you know the drill.
+- Offshore is time-consuming, especially without **CRTE, CRTM, CRTO, CRTL, or HTB CAPE**. You can certainly do it without those certs but be ready to be humbled several times, to embrace extreme resilience and composure, and to do extensive research. If you've been through HTB Pro Labs before, you certainly know the drill.
 - **BloodHound** is essential for mapping the landscape, especially with four forests. Map each domain and forest thoroughly to understand trust relationships and uncover valuable insights.
 - A key tip: switching VPN instances can make unreachable hosts accessible. Many users suggest US over EU instances, partly because some stay broken for days.
-- Offshore is vast, chaotic, and demanding, but truly rewarding. Cybernetics and RastaLabs (AKA Evasion Madness) are tougher — their strict evasion requirements mean msfvenom alone won't save you without proper obfuscation techniques.
-- If Dante felt messy, Offshore will blow your mind — flags are everywhere. Thoroughly enumerate every host, and search for strings like `flag`, `OFFSHORE`, or similar. I ran the below command on nearly every host, and it saved me more than once:
+- Offshore is vast, chaotic, and demanding, but truly rewarding. Cybernetics and RastaLabs (AKA Evasion Madness) are tougher and their strict evasion requirements mean msfvenom alone won't save you without proper obfuscation techniques.
+- If Dante felt messy, Offshore will blow your mind because flags are everywhere (or rather in places you wouldn't expect). Thoroughly enumerate every host, and search for strings like `flag`, `OFFSHORE`, or similar. I ran the below command on nearly every host, and it saved me more than once:
 
 ```powershell
 powershell.exe -c "Get-ChildItem -Path C:\ -Recurse -Filter *flag*.txt -ErrorAction SilentlyContinue -Force"
