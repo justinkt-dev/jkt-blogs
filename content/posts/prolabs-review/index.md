@@ -161,11 +161,11 @@ powershell.exe -c "Get-ChildItem -Path C:\ -Recurse -Filter *flag*.txt -ErrorAct
 
 - The labs often have many active users, so expect overlapping techniques. ForceChangePassword is frequently used (thanks to BloodHound) and often by novices, while experienced players take other routes. Artifacts, hashes, or deleted files may also result from others' actions.
 - Establish a solid methodology before starting, or refine one as you progress. CPTS gave me the fundamentals, but success with HTB Labs demands research and resourcefulness. Use Google, the HTB Community, Forum, and Discord.
-- Sometimes it's best to capture or steal credentials instead of brute-forcing them (**Responder**, **SMBRelay**, or **OSINT** are instrumental). Credential reuse is common across these labs so familiarity with **NXC** or **CME** can save a lot of time.
-- Enumeration is key. Run tools like **winPEAS**, **LinPEAS**, or living-off-the-land techniques to locate interesting files and attack paths.
-- Engage wisely with the community — Discord is your best ally. Check the Pro Labs section for past discussions when stuck. Many solutions come from reading, sharing, or helping others.
-- Take detailed notes and track all findings. Some even practice reporting, which is great. Whatever method you use — never **CHARGE IN BLIND**.
-- You don't need to master C2 frameworks for all Pro Labs, though they shine in Zephyr, RastaLabs, and Cybernetics. For POO and Dante, they're overkill. Focus on mastering **Ligolo-ng** for pivots, it remains far more reliable than Proxychains, Chisel, or SSH.
+- Sometimes it's best to capture or steal credentials instead of brute-forcing them (**Responder**, **SMBRelay**, or **OSINT** are instrumental). Credential reuse is common across these labs so familiarity with **NetExec** or **CrackMapExec** can save a lot of time.
+- Enumeration is key, run tools like **WinPEAS**, **LinPEAS**, or living-off-the-land techniques to locate interesting files and attack paths.
+- Engage wisely with the community and note that Discord is your best ally. Check the Pro Labs section for past discussions when stuck. Many solutions come from reading, sharing, or helping others.
+- Take detailed notes and track all findings. Some even practice reporting, which is great. Whatever methods or tools you use, never **CHARGE IN BLIND**.
+- You don't need to master C2 frameworks for all Pro Labs, though they shine in Zephyr, RastaLabs, and Cybernetics. For POO and Dante, they're overkill. Focus on mastering **Ligolo-ng** for pivots, it remains far more reliable than **Proxychains, Chisel, or SSH**.
 - Be ready to step out of your comfort zone. You will need to use unfamiliar TTPs.
 - Automate wherever possible. Here's a bash script I use to add hosts to a Ligolo interface:
 
