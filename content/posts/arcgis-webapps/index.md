@@ -42,14 +42,10 @@ Understanding how Web Applications are constructed is essential for effective tr
   <img src="webappflow.webp" alt="ArcGIS WebApp" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius:4px;">
   <figcaption>ArcGIS Web App Troubleshooting and Building Flow</figcaption>
 </figure>
-<figure>
-  <img src="Offshore.webp" alt="Offshore Pro Labs" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
-  <figcaption>Offshore Pro Labs</figcaption>
-</figure>
 
-**From left to right** — the diagram illustrates the troubleshooting workflow: starting with the web application, then moving to the associated web map(s), and finally examining the layers or services that compose those web maps.
+**From left to right**, the diagram illustrates the troubleshooting workflow: starting with the web application, then moving to the associated web map(s), and finally examining the layers or services that compose those web maps.
 
-**Conversely, from right to left** — it illustrates the building workflow, showing how web applications are developed beginning at the services level, progressing to the web map, and culminating in the final application.
+**Conversely, from right to left**, it illustrates the building workflow, showing how web applications are developed beginning at the services level, progressing to the web map, and culminating in the final application.
 
 Remember that permissions, sharing settings, user types, and roles apply across all levels.
 
