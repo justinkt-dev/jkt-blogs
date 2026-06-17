@@ -7,7 +7,9 @@ toc: true
 draft: false
 ---
 
-![ArcGIS Web Applications](ArcGIS_webapp_cover.webp)
+<figure>
+  <img src="ArcGIS_webapp_cover.webp" alt="ArcGIS Web App" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius:2px;">
+</figure>
 
 > **Notice:** This is part of the GeoTech Logbook Series. If you are dealing with GIS-based systems, I hope you find some useful insights regardless of your background.
 
