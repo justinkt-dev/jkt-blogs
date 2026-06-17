@@ -29,7 +29,7 @@ Before dissecting the mentioned Pro Labs individually, it's essential to have a 
 
 ## Are Pro Labs Designed for Red Team Operators or Penetration Testers?
 
-At first, I thought HackTheBox Pro Labs were only for Red Team operators — turns out I was wrong. Most labs are Red Team–level, and while shortcuts can work, it's best to follow the intended approach. Relying on shortcuts or luck might work at times but would never fly in real engagements. Everything in the lab exists for a reason, so stay observant and take detailed notes.
+At first, I thought HackTheBox Pro Labs were only for Red Team operators, turns out I was wrong. Most labs are Red Team–level, however PenTesters can do them. While shortcuts can work, it's best to follow the intended approach. Relying on shortcuts or luck might work at times but would never fly in real engagements. Everything in the lab exists for a reason, so stay observant and take detailed notes.
 
 Despite the name, penetration testers can tackle these labs and practice, if not learn new skills or techniques. Bear in mind that they are time-consuming, even for seasoned professionals. This could be due to factors like tools malfunctioning, VPN issues, broken machines, or overlapping attacks. Frustrating moments such as **"Why won't this payload work?"** are unavoidable.
 
