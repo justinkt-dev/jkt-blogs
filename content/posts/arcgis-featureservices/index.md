@@ -40,7 +40,7 @@ Feature Services can be hosted (stored in ArcGIS Online or Portal), referenced (
 
 <figure>
   <img src="arcgisdatastores.webp" alt="ArcGIS Datastore" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius:2px;">
-  <figcaption>Rock Lee</figcaption>
+  <figcaption>Type Of Data Stores</figcaption>
 </figure>
 
 ### Copied Data Stores
