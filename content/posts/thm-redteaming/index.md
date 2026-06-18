@@ -53,7 +53,7 @@ Guides on AD enumeration, credential harvesting, lateral movement, privilege esc
 
 ## Key Deliverables
 <figure>
-  <img src="deliverables.webp" alt="Key Deliverables" style="width:100%; max-width:800px; display:block; margin:0 auto; border-radius:8px;">
+  <img src="deliverables.webp" alt="Key Deliverables" style="width:100%; max-width:600px; display:block; margin:0 auto; border-radius:8px;">
   <figcaption>Deliverables</figcaption>
 </figure>
 
