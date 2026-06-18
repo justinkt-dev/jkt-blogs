@@ -7,7 +7,6 @@ toc: true
 draft: false
 ---
 
-![ArcGIS Printing Services](arcgisprinting.webp)
 <figure>
   <img src="arcgisprinting.webp" alt="ArcGIS Prining Services" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius: 2px;">
 </figure>
