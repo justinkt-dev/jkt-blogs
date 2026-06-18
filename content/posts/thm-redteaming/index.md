@@ -15,7 +15,7 @@ The Red Teaming path on TryHackMe is designed to take you beyond traditional pen
 
 ## Section 1: Red Team Fundamentals
 
-Introduces Red Team methodologies, OPSEC, threat intelligence, and the basics of Command and Control (C2) operations. C2 frameworks are absolutely crucial when it comes to post-exploitation and persistence — APT groups implement custom ones and use them daily.
+Introduces Red Team methodologies, OPSEC, threat intelligence, and the basics of Command and Control (C2) operations. C2 frameworks are absolutely crucial when it comes to post-exploitation and persistence, seasoned professionals and APT groups implement custom ones and use them daily.
 
 ![Section 1: Red Team Fundamentals](red-sec1.webp)
 
@@ -52,31 +52,33 @@ Guides on AD enumeration, credential harvesting, lateral movement, privilege esc
 ![Section 6: Compromising Active Directory](red-sec6.webp)
 
 ## Key Deliverables
+<figure>
+  <img src="deliverables.webp" alt="Key Deliverables" style="width:100%; max-width:800px; display:block; margin:0 auto; border-radius:8px;">
+  <figcaption>Deliverables</figcaption>
+</figure>
 
-![Deliverables](deliverables.webp)
-
-1. **Understanding Red Team Engagements** — Red Team methodologies, threat intelligence collection, and OPSEC principles.
-2. **Initial Access Techniques** — Mastery of reconnaissance, weaponization, phishing, and password attacks.
-3. **Post-Compromise Skills** — Enumeration, privilege escalation, lateral movement, persistence, and data exfiltration.
-4. **Evasion Techniques** — Evading endpoint defenses, shellcode obfuscation, signature evasion, LOLBins, and network evasion.
-5. **Active Directory Exploitation** — AD compromise, credential harvesting, lateral movement, and persistence in enterprise environments.
+1. **Understanding Red Team Engagements**: Red Team methodologies, threat intelligence collection, and OPSEC principles.
+2. **Initial Access Techniques**: Mastery of reconnaissance, weaponization, phishing, and password attacks.
+3. **Post-Compromise Skills**: Enumeration, privilege escalation, lateral movement, persistence, and data exfiltration.
+4. **Evasion Techniques**: Evading endpoint defenses, shellcode obfuscation, signature evasion, LOLBins, and network evasion.
+5. **Active Directory Exploitation**: AD compromise, credential harvesting, lateral movement, and persistence in enterprise environments.
 
 ## The Do's and Don'ts
 
 ### ✅ Do's
 
-1. **Focus on Fundamentals** — Master Windows internals, Active Directory, and network security.
-2. **Practice OPSEC** — Always prioritize stealth and avoid detection by defenders.
-3. **Document Engagements** — Maintain detailed notes on tactics, tools, and outcomes. I use Obsidian.
-4. **Test with Tools** — Use Cobalt Strike, Covenant, or custom C2 frameworks. Sliver C2 and Empire C2 are both covered.
-5. **Adapt and Improvise** — Combine approaches and tailor techniques to specific environments.
+1. **Focus on Fundamentals**: Master Windows internals, Active Directory, and network security.
+2. **Practice OPSEC**: Always prioritize stealth and avoid detection by defenders.
+3. **Document Engagements**: Maintain detailed notes on tactics, tools, and outcomes. I use Obsidian.
+4. **Test with Tools**: Use Cobalt Strike, Covenant, or custom C2 frameworks. Basic use of Sliver C2 and Empire C2 are both covered.
+5. **Adapt and Improvise**: Combine approaches and tailor techniques to specific environments.
 
 ### ❌ Don'ts
 
-1. **Avoid Over-Reliance on Tools** — Understand underlying principles, not just automated outputs.
-2. **Neglect Defensive Perspectives** — Knowing how Blue Teams operate makes you a better attacker.
-3. **Skip Ethical Boundaries** — Always follow the Rules of Engagement (ROE) and respect the NDA.
-4. **Ignore Post-Engagement Processes** — Conduct thorough cleanup after testing.
+1. **Avoid Over-Reliance on Tools**: Understand underlying principles, not just automated outputs.
+2. **Neglect Defensive Perspectives**: Knowing how Blue Teams operate makes you a better attacker.
+3. **Skip Ethical Boundaries**: Always follow the Rules of Engagement (ROE) and respect the NDA.
+4. **Ignore Post-Engagement Processes**: Conduct thorough cleanup after testing.
 
 ## Conclusion
 
