@@ -32,6 +32,9 @@ Below are two overview tables highlighting pros, cons, and job readiness offered
 |---|---|
 | **Offensive Security (Penetration Tester, Red Teamer)** | Limited practical exposure. Theory helps (OS internals, networking), but hands-on skills must be learned outside — HackTheBox, TryHackMe, VulnLab, etc. |
 | **Defensive Security (SOC Analyst, Threat Hunter, Blue Teamer)** | Slightly more aligned, especially for SOC, IR, and GRC roles. Still needs labs, internships, and tools like SIEMs for practical knowledge. |
+<figure>
+  <figcaption>Degree and Job Readiness</figcaption>
+</figure>
 
 Overall, a degree is a great starting point but not enough on its own. A well-structured curriculum combined with hands-on practice, certifications, and self-learning is the best approach.
 
