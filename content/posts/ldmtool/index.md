@@ -11,7 +11,7 @@ draft: false
 
 ## Introduction
 
-Data recovery can be a lifesaver, especially when dealing with Logical Disk Manager (LDM) volumes. Using `ldmtool` — a utility designed for managing Windows LDM partitions on Linux — we can mount and access these volumes easily.
+Data recovery can be a lifesaver, especially when dealing with Logical Disk Manager (LDM) volumes. Using `ldmtool` a utility designed for managing Windows LDM partitions on Linux — we can mount and access these volumes easily.
 
 In this guide, we will explore the use of `ldmtool` to scan and mount LDM volumes, as well as steps using GParted to format additional disks. We also cover `ldmtool` installation across different Linux distributions including Arch Linux, Debian, and Red Hat.
 
