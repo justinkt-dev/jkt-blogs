@@ -7,6 +7,10 @@ draft: false
 ---
 I'm **Justin (aka JKT)**, a driven technology professional with hands‑on expertise in ArcGIS Enterprise, offensive security, and automation scripting. I diagnose complex geospatial problems and deliver reliable, high‑quality solutions for end users. I author knowledge articles, support enterprise usage, mentor team members and resolve complex global escalations. Disciplined and curious, I continuously advance my skills through hands‑on labs and industry certifications.  
 
+---
+<a href="/resume.pdf" download class="resume-btn">⬇ Download Resume</a>
+---
+
 
 ## 💼 Work Experience
 ---
