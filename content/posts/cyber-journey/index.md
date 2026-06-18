@@ -11,16 +11,16 @@ draft: false
 
 ## Introduction
 
-Quick note before we begin — I am an aspiring offensive security professional with a growing portfolio of certifications and hands-on experience, particularly through platforms like **INE** (formally known as eLearnSecurity), **TryHackMe**, and **HackTheBox**. While I have made significant progress in my learning journey, I am still early in my career. This review reflects my personal experiences and observations so far, and I highly encourage readers to consider multiple perspectives when planning their own cybersecurity education paths.
+Quick note before we begin, I am an aspiring offensive security professional with a growing portfolio of certifications and hands-on experience, particularly through platforms like **INE** (formally known as eLearnSecurity), **TryHackMe**, and **HackTheBox**. While I have made significant progress in my learning journey, I am still early in my career. This review reflects my personal experiences and observations so far, and I highly encourage readers to consider multiple perspectives when planning their own cybersecurity education paths.
 
-This topic is important because many newcomers to cybersecurity face the same dilemma: Should I pursue a degree, stack certifications, or dive straight into practical experience? Will I land a job by the end of my studies? In this blog, I'll share how all three — classroom learning, professional certifications, and platforms like **TryHackMe**, **HackTheBox**, **INE** and many more — can be leveraged to build a well-rounded foundation.
+This topic is important because many newcomers to cybersecurity face the same dilemma: *Should I pursue a degree, stack certifications, or dive straight into practical experience? Will I land a job by the end of my studies?* In this blog, I'll share how all three classroom learning, professional certifications, and platforms like **TryHackMe**, **HackTheBox**, **INE** and many more can be leveraged to build a well-rounded foundation. 
 
 ## The Traditional Route: Cybersecurity University Degrees
 
 Below are two overview tables highlighting pros, cons, and job readiness offered by a Cybersecurity degree. Keep in mind that each university has its own curriculum.
 
 | Category | Relevant Details |
-|---|---|
+|:---:|---|
 | What Degree Offers | Structured curriculum covering CS and cybersecurity fundamentals. Strong theoretical foundation (networking, OS, cryptography). Academic & professional networking opportunities. |
 | Pros | Recognized by employers (especially corporate/government roles). Teaches broad tech concepts beyond just security. Access to internships, research, and graduate programs. |
 | Cons | Often lacks practical, hands-on training. May not reflect current industry tools or attack methods. Can be expensive and time-intensive. |
