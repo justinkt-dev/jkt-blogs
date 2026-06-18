@@ -10,7 +10,7 @@
 &lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;ArcGIS web applications are essential tools for organizations seeking to visualize, analyze, and share spatial data interactively. Two primary platforms — ArcGIS Experience Builder and Web AppBuilder — offer powerful, flexible solutions for building these web apps. However, users frequently encounter challenges during configuration and deployment.&lt;/p&gt;</description></item><item><title>ArcGIS Printing Services Made Simple: Frequent Issues, Fixes, and Proven Tips</title><link>https://justinkombe.com/posts/arcgis-printing/</link><pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate><guid>https://justinkombe.com/posts/arcgis-printing/</guid><description>&lt;p&gt;&lt;img src="https://justinkombe.com/posts/arcgis-printing/arcgisprinting.webp" alt="ArcGIS Printing Services"&gt;&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src="rocklee.webp" alt="Rock Lee" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius: 2px;"&gt;
+&lt;img src="arcgisprinting.webp" alt="ArcGIS Prining Services" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius: 2px;"&gt;
 &lt;/figure&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; While this might not align with typical OpSec content, this article is part of the GeoTech Logbook Series sharing GIS-related insights, technical notes, and observations for future reference and community sharing.&lt;/p&gt;

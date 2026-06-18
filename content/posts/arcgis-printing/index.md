@@ -9,7 +9,7 @@ draft: false
 
 ![ArcGIS Printing Services](arcgisprinting.webp)
 <figure>
-  <img src="rocklee.webp" alt="Rock Lee" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius: 2px;">
+  <img src="arcgisprinting.webp" alt="ArcGIS Prining Services" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius: 2px;">
 </figure>
 
 > **Disclaimer:** While this might not align with typical OpSec content, this article is part of the GeoTech Logbook Series sharing GIS-related insights, technical notes, and observations for future reference and community sharing.
