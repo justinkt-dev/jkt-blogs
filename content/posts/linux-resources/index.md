@@ -11,7 +11,7 @@ draft: false
 
 ## Introduction
 
-Linux is a very common topic nowadays in the world of software development, system administration, DevOps, database management, and security operations. In this blog, I tried to cover as much as I could — not only on RH124, RH134, and DO457 — but also on Linux in general, highlighting useful materials and resources for future reference.
+Linux is a very common topic nowadays in the world of software development, system administration, DevOps, database management, and security operations. In this blog, I tried to cover as much as I could not only on RH124, RH134, and DO457 but also on Linux in general, highlighting useful materials and resources for future reference.
 
 **Disclaimer:** It's crucial to understand your learning style then adapt to what is most convenient for yourself. There are several ways to learn and master Linux, whether from official documentation, YouTube channels, or third-party providers. Feel free to share and recommend more tips and materials. Let's dive in!
 
