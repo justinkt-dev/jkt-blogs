@@ -92,16 +92,15 @@ This might seem surprising to some, but I don't use Kali Linux much despite its 
 
 ## My Personal Takeaways
 
-![Key Takeaways](key-takeaways.webp)
 <figure>
   <img src="key-takeaways.webp" alt="Takeaways" style="width:100%; max-width:700px; display:block; margin:0 auto; border-radius:8px;">
   <figcaption>Key Takeaways</figcaption>
 </figure>
 
-1. **For Quick and Hassle-Free Workflows** — Pop!_OS is unbeatable for professionals who want to start working immediately.
-2. **For Full Control and Cutting-Edge Software** — Arch Linux is perfect for those willing to invest time in a highly customized system.
-3. **For Security Professionals** — Arch provides greater flexibility for penetration testing, while Pop!_OS shines for stable environments for analysis and reporting.
-4. **For Multi-Cloud and Red Teaming Workflows** — Pop!_OS offers a more stable base for hybrid workloads; Arch can be tailored for advanced cloud security tasks.
-5. **Hardware specs matter** — The worst combination you can have is Nvidia Drivers + Intel CPU. I personally have that combination and it's a nightmare. Opt for AMD-based GPUs when possible.
+1. **For Quick and Hassle-Free Workflows**: Pop!_OS is unbeatable for professionals who want to start working immediately.
+2. **For Full Control and Cutting-Edge Software**: Arch Linux is perfect for those willing to invest time in a highly customized system.
+3. **For Security Professionals**: Arch provides greater flexibility for penetration testing, while Pop!_OS shines for stable environments for analysis and reporting.
+4. **For Multi-Cloud and Red Teaming Workflows**: Pop!_OS offers a more stable base for hybrid workloads; Arch can be tailored for advanced cloud security tasks.
+5. **Hardware specs matter**: The worst combination you can have is Nvidia Drivers + Intel CPU. I personally have that combination and it's a nightmare. Opt for AMD-based GPUs when possible.
 
 The beauty of Linux lies in its freedom of choice. Whether you prioritize control or convenience, the best distro is the one that empowers you to achieve your goals. **Download, configure, play around, and choose what's best for your needs.**
