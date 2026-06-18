@@ -8,7 +8,7 @@ draft: false
 I'm **Justin (aka JKT)**, a driven technology professional with hands‑on expertise in ArcGIS Enterprise, offensive security, and automation scripting. I diagnose complex geospatial problems and deliver reliable, high‑quality solutions for end users. I author knowledge articles, support enterprise usage, mentor team members and resolve complex global escalations. Disciplined and curious, I continuously advance my skills through hands‑on labs and industry certifications.  
 <a href="/resume.pdf" download class="resume-btn">⬇ Download Resume</a>
 
-## 💼 Work Experience
+## Work Experience
 ---
 
 **GIS Enterprise Support Analyst - Esri Malaysia** *(Mar 2025 – Present)*
@@ -30,12 +30,12 @@ I'm **Justin (aka JKT)**, a driven technology professional with hands‑on exper
 - Compiled detailed reports documenting findings, strategic recommendations, and remediation actions.
 
 
-## 🎓 Education
+## Education
 ---
 - Bachelor of Science (Honours) in Computer Science (Cyber Security) - *(2021 – 2024)*
 
 
-## 🏆 Certifications
+## Certifications
 ---
 - OSCE3 - Offensive Security Certified Expert *(In Progress)* 
 - CRTL - Certified Red Team Lead *(06/2026)*
@@ -44,7 +44,7 @@ I'm **Justin (aka JKT)**, a driven technology professional with hands‑on exper
 - CPTS - Certified Penetration Testing Specialist *(04/2026)*
 - 5x HTB Pro Labs - POO, Dante, Zephyr, Offshore, RastaLabs *(09/2025)*
 
-## 🔥 Areas of Expertise
+## Areas of Expertise
 ---
 - GIS Enterprise Systems & ArcGIS Online 
 - Malware Development & AV/EDR Evasion
