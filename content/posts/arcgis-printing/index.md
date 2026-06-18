@@ -8,12 +8,15 @@ draft: false
 ---
 
 ![ArcGIS Printing Services](arcgisprinting.webp)
+<figure>
+  <img src="rocklee.webp" alt="Rock Lee" style="width:100%; max-width:100%; display:block; margin:0 auto; border-radius: 2px;">
+</figure>
 
-> **Disclaimer:** While this might not align with typical OpSec content, this article is part of the GeoTech Logbook Series — sharing GIS-related insights, technical notes, and observations for future reference and community sharing.
+> **Disclaimer:** While this might not align with typical OpSec content, this article is part of the GeoTech Logbook Series sharing GIS-related insights, technical notes, and observations for future reference and community sharing.
 
 ## Introduction
 
-Printing maps is a fundamental workflow in many GIS organizations. However, configuring and maintaining ArcGIS Enterprise printing services can present a variety of complex challenges — from failing print jobs to inconsistent output quality.
+Printing maps is one of the fundamental workflow in many GIS organizations. However, configuring and maintaining ArcGIS Enterprise printing services can present a variety of complex challenges from failing print jobs to inconsistent output quality. 
 
 This guide outlines the most common issues encountered by end users, their causes, and proven solutions backed by knowledge base articles, practical steps, and field-tested troubleshooting workflows.
 
