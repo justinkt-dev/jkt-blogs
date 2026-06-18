@@ -24,6 +24,9 @@ Below are two overview tables highlighting pros, cons, and job readiness offered
 | What Degree Offers | Structured curriculum covering CS and cybersecurity fundamentals. Strong theoretical foundation (networking, OS, cryptography). Academic & professional networking opportunities. |
 | Pros | Recognized by employers (especially corporate/government roles). Teaches broad tech concepts beyond just security. Access to internships, research, and graduate programs. |
 | Cons | Often lacks practical, hands-on training. May not reflect current industry tools or attack methods. Can be expensive and time-intensive. |
+<figure>
+  <figcaption>Pros and Cons of Degree</figcaption>
+</figure>
 
 | Role | Readiness |
 |---|---|
