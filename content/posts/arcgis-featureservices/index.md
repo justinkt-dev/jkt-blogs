@@ -8,7 +8,7 @@ draft: false
 ---
 
 <figure>
-  <img src="arcgisservices.webp" alt="ArcGIS Services" style="width:80%; max-width:100%; height:80%; display:block; margin:0 auto; border-radius:2px;">
+  <img src="arcgisservices.webp" alt="ArcGIS Services" style="width:100%; max-width:100%; height:70%; display:block; margin:0 auto; border-radius:2px;">
 </figure>
 
 > **Heads-up:** This post may differ from the usual OpSec content. It's part of my GeoTech Logbook Series, centered around GIS insights where I explore and document practical GIS challenges and lessons.
