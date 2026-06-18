@@ -30,7 +30,8 @@ ArcGIS PrintingTools (also labelled as Printing Services) allow users to generat
 
 ### Common Errors
 
-- **Error 1: Failed to Create Layer from Service** — Usually occurs when the PrintingTools geoprocessing service is stopped, SSL/certificate trust is misconfigured, or firewall settings block communication.
+- **Error 1: Failed to Create Layer from Service**
+    - Usually occurs when the PrintingTools geoprocessing service is stopped, SSL/certificate trust is misconfigured, or firewall settings block communication.
 - **Error 2: Invalid or Inaccessible Print Service** — Triggered by asynchronous mode settings, SSL trust issues, corrupted PrintingTools, or incorrect URLs during Portal configuration.
 - **Error 3: Unable to Print Maps Using Default PrintingTools Service** — Linked to misconfigured PrintingTools, improper SSL certificates, proxy server misconfigurations, or network segmentation (DMZ/MZ).
 - **Error 4: Connection with the Server Could Not Be Established (WinINet Error 12029)** — Typically caused by incorrect Windows Internet Options, disabled RSA encryption, or firewall/proxy issues.
