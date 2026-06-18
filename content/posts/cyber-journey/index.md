@@ -64,7 +64,7 @@ Overall, a degree is a great starting point but not enough on its own. A well-st
 
 Dive into the [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) to find out more.
 
-## Cybersecurity Degree or Certifications — Which One to Choose?
+## Cybersecurity Degree or Certifications, Which One to Choose?
 
 | Aspect | Cybersecurity Degree | Cybersecurity Certifications |
 |---|---|---|
@@ -75,7 +75,9 @@ Dive into the [Security Certification Roadmap](https://pauljerimy.com/security-c
 | Learning Style | Structured, academic | Hands-on, exam-focused |
 | Flexibility | Less flexible, fixed schedule | More flexible, self-paced |
 | Employer Preference | Preferred for management and research | Valued for specific technical skills |
-
+<figure>
+  <figcaption>Degree Vs Certifications</figcaption>
+</figure>
 A few considerations:
 
 - If you seek broad knowledge, leadership roles, and comprehensive education → a degree is more suitable.
@@ -88,7 +90,7 @@ No amount of theory can ever replace the value of hands-on practice. Platforms l
 
 I would always recommend **HackTheBox** as the methodology takes students out of their comfort zone, making it invaluable. HTB Academy & Labs is one of the best places to start if you're serious about improving your skills.
 
-Finding the right balance between academic coursework, certifications, and hands-on labs can be challenging — it demands dedication and discipline. For instance, at the start of each semester, I would allocate more time to platforms like HackTheBox and pursue certifications such as eJPT, CBBH, and CPTS. As the semester progressed and academic demands increased, I would gradually adjust my focus accordingly.
+Finding the right balance between academic coursework, certifications, and hands-on labs can be challenging, it requires a certain level of dedication and discipline. For instance, at the start of each semester, I would allocate more time to platforms like HackTheBox and pursue certifications such as eJPT, CBBH (now CWES), and CPTS. As the semester progressed and academic demands increased, I would gradually adjust my focus accordingly.
 
 ## Relevant Foundational Skills to Guide Your Cybersecurity Career Path
 
@@ -116,7 +118,7 @@ Understanding how apps are built helps break or defend them. Mastering HTML, CSS
 
 ### 4. Cloud Platforms and Security
 
-Everything is moving to the cloud — so will security. Core skills include AWS, Azure, GCP basics (IAM, S3, EC2, Lambda, VPC), cloud IAM, misconfigurations, and cloud logging/threat detection.
+Everything is moving to the cloud, so will security. Core skills include AWS, Azure, GCP basics (IAM, S3, EC2, Lambda, VPC), cloud IAM, misconfigurations, and cloud logging/threat detection.
 
 Notable certs: AWS Cloud Practitioner, Azure Fundamentals, CCA (Practical).
 
@@ -135,26 +137,26 @@ Essential for understanding secure communication, encryption, and cracking. Cove
 
 Often overlooked but crucial for long-term growth:
 
-- Report writing — clear, structured, technical and non-technical
-- Communication — explaining risks to non-tech stakeholders
-- Time management and documentation
+- **Report writing**: clear, structured, technical and non-technical
+- **Communication**: explaining risks to non-tech stakeholders
+- Time management and documentation (probably one of the most underated skill out there)
 - Curiosity and a continuous learning mindset
 
 ## The Do's and Don'ts
 
 ### ✅ Do's
 
-1. **Learn and master the basics** — solid foundations in Linux, networking, and OS internals will take you further than any automated tool.
-2. **Commit to continuous learning** — cybersecurity is a fast-moving field. What works today might be obsolete tomorrow.
-3. **Balance theory and hands-on practice** — reading about privilege escalation is one thing, performing it in a lab is another.
-4. **Build your network** — connect with like-minded individuals online or in person. Join communities, attend webinars, CTF competitions.
-5. **Document your journey** — take notes, write blogs, record your progress. Sharing your journey might inspire someone else or lead to collaboration opportunities.
+1. **Learn and master the basics**: solid foundations in Linux, networking, and OS internals will take you further than any automated tool.
+2. **Commit to continuous learning**: cybersecurity is a fast-moving field. What works today might be obsolete tomorrow.
+3. **Balance theory and hands-on practice**: reading about privilege escalation is one thing, performing it in a lab is another.
+4. **Build your network**: connect with like-minded individuals online or in person. Join communities, attend webinars, CTF competitions.
+5. **Document your journey**: take notes, write blogs, record your progress. Sharing your journey might inspire someone else or lead to collaboration opportunities.
 
 ### ❌ Don'ts
 
-1. **Don't rely solely on one learning path** — completing a path is great, but the goal is understanding key methodologies and going beyond.
-2. **Don't neglect soft skills** — communication is just as important as technical skill. Growing up I thought cybersecurity was all about running scripts and popping shells. I learned the hard way that writing, speaking, and active listening are equally important.
-3. **Don't ignore emerging trends** — cloud security, AI, threat intel, and zero trust are becoming mainstream. Stay informed through blogs, newsletters, and conferences.
+1. **Don't rely solely on one learning path**: completing a path is great, but the goal is understanding key methodologies and going beyond.
+2. **Don't neglect soft skills**: communication is just as important as technical skill. Growing up I thought cybersecurity was all about running scripts and popping shells. I learned the hard way that writing, speaking, and active listening are equally important.
+3. **Don't ignore emerging trends**: cloud security, AI, threat intel, and zero trust are becoming mainstream. Stay informed through blogs, newsletters, and conferences.
 
 ## Conclusion
 
@@ -162,4 +164,4 @@ Cybersecurity is a field that rewards curiosity, dedication, and adaptability. W
 
 No matter the career path you choose, you will come across tools such as **Metasploit, Wireshark, BurpSuite, Nessus, Nuclei, Splunk, Snort** as well as common services (**FTP, SMB, RDP, DNS, Email**) and common applications (**WordPress, Drupal, Joomla, Tomcat, Jenkins, GitLab, LDAP** and much more).
 
-Long story short — start with **TryHackMe** as it is beginner-friendly, then progressively migrate to **HackTheBox** as things get more serious and challenging. Check out their learning paths to choose where you see yourself. **Immediate action** is key to achieving the best results.
+Long story short, start with **TryHackMe** as it is beginner-friendly, then progressively migrate to **HackTheBox** as things get more serious and challenging. Check out their learning paths to choose where you see yourself. **Immediate action** is key to achieving the best results.
